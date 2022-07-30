@@ -1,17 +1,17 @@
  <center>
-     <h1>庄志国</h1>
+     <h2>庄志国</h2>
+     <h2>岗 位：golang开发工程师(云原生开发)</h2>
  </center>
 
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
-* 手 机：18102323240 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：zg_1233@163.com    
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：golang开发工程师(云原生开发)
+* 手 机：18102323240 &emsp;&ensp;&ensp;&ensp;&ensp;&emsp;&emsp;&emsp;&emsp; 邮 箱：zg_1233@163.com    
 
 ## 教育经历
      
-* 重庆邮电大学&emsp;&emsp;&emsp;&emsp;&emsp;2020.9~2013.6&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
-* 青岛理工大学&emsp;&emsp;&emsp;&emsp;&emsp;2016.9~2020.6&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+* 重庆邮电大学&emsp;&emsp;&emsp;&emsp;&emsp;2020.9~2013.6&emsp;&emsp;&emsp;&emsp; 计算机技术专业-研究生         
+* 青岛理工大学&emsp;&emsp;&emsp;&emsp;&emsp;2016.9~2020.6&emsp;&emsp;&emsp;&emsp; 网络工程专业-本科  
 
 ## 专业技能
 
@@ -73,5 +73,5 @@
 * 乐于交朋友
 * 责任心强，动手能力尚可
 
-<h7><center>感谢您花时间阅读我的简历，期待能有机会和您共事。</h6>
+<center><h7>感谢您花时间阅读我的简历，期待能有机会和您共事。</h7></center>
 
