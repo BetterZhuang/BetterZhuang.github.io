@@ -1,11 +1,11 @@
  <center>
-     <h2>庄志国</h2>
+     <h1>庄志国</h1>
      <h2>岗 位：golang开发工程师(云原生开发)</h2>
  </center>
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：24  
 * 手 机：18102323240 &emsp;&ensp;&ensp;&ensp;&ensp;&emsp;&emsp;&emsp;&emsp; 邮 箱：zg_1233@163.com    
 
 ## 教育经历
